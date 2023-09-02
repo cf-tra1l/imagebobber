@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "I found your ip and Crashed you 🤡🤡🤡 {ip} {timezone}", # Message to show
+        "message": "I found your ip and crashed you  {ip} {timezone}", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
